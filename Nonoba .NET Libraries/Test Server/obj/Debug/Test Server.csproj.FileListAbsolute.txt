@@ -1,0 +1,18 @@
+C:\Users\HenryZ\Desktop\Flash\Tuolaji\Nonoba .NET Libraries\Test Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HenryZ\Desktop\Flash\Tuolaji\Nonoba .NET Libraries\Test Server\bin\Debug\Test Server.exe
+C:\Users\HenryZ\Desktop\Flash\Tuolaji\Nonoba .NET Libraries\Test Server\bin\Debug\Test Server.pdb
+C:\Users\HenryZ\Desktop\Flash\Tuolaji\Nonoba .NET Libraries\Test Server\bin\Debug\Development Server.exe
+C:\Users\HenryZ\Desktop\Flash\Tuolaji\Nonoba .NET Libraries\Test Server\bin\Debug\MyGame.dll
+C:\Users\HenryZ\Desktop\Flash\Tuolaji\Nonoba .NET Libraries\Test Server\bin\Debug\Nonoba.GameLibrary.dll
+C:\Users\HenryZ\Desktop\Flash\Tuolaji\Nonoba .NET Libraries\Test Server\bin\Debug\MyGame.pdb
+C:\Users\HenryZ\Desktop\Flash\Tuolaji\Nonoba .NET Libraries\Test Server\obj\Debug\Test Server.exe
+C:\Users\HenryZ\Desktop\Flash\Tuolaji\Nonoba .NET Libraries\Test Server\obj\Debug\Test Server.pdb
+D:\Tuolaji\trunk\Tuolaji\Nonoba .NET Libraries\Test Server\obj\Debug\Test Server.exe
+D:\Tuolaji\trunk\Tuolaji\Nonoba .NET Libraries\Test Server\obj\Debug\Test Server.pdb
+D:\Tuolaji\trunk\Tuolaji\Nonoba .NET Libraries\Test Server\bin\Debug\Test Server.exe
+D:\Tuolaji\trunk\Tuolaji\Nonoba .NET Libraries\Test Server\bin\Debug\Test Server.pdb
+D:\Tuolaji\trunk\Tuolaji\Nonoba .NET Libraries\Test Server\obj\Debug\ResolveAssemblyReference.cache
+D:\Tuolaji\trunk\Tuolaji\Nonoba .NET Libraries\Test Server\bin\Debug\Development Server.exe
+D:\Tuolaji\trunk\Tuolaji\Nonoba .NET Libraries\Test Server\bin\Debug\MyGame.dll
+D:\Tuolaji\trunk\Tuolaji\Nonoba .NET Libraries\Test Server\bin\Debug\Nonoba.GameLibrary.dll
+D:\Tuolaji\trunk\Tuolaji\Nonoba .NET Libraries\Test Server\bin\Debug\MyGame.pdb

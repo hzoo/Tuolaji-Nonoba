@@ -1,0 +1,29 @@
+<projectDescription>
+  <id>1259269008450</id>
+  <name>Tuolaji</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Users/HenryZ/AppData/Local/Adobe/Flash CS4/en/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Users/HenryZ/AppData/Local/Adobe/Flash CS4/en/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///C|/Users/HenryZ/Desktop/Flash/Tuolaji/Flash/MyGame.fla</defaultApp>
+  <rootURI>file:///C|/Users/HenryZ/Desktop/Flash/Tuolaji/</rootURI>
+  <flexSDK>C:\Users\HenryZ\Desktop\Flash\FlexSDK_3.4</flexSDK>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false">
+    <uri label="MyGame.fla">file:///C|/Users/HenryZ/Desktop/Flash/Tuolaji/Flash/MyGame.fla</uri>
+  </compileList>
+  <recentFiles editable="false">
+    <uri label="MyGame.fla">file:///C|/Users/HenryZ/Desktop/Flash/Tuolaji/Flash/MyGame.fla</uri>
+    <uri label="MyGame.as">file:///C|/Users/HenryZ/Desktop/Flash/Tuolaji/Flash/MyGame.as</uri>
+    <uri label="PlayerPile.as">file:///C|/Users/HenryZ/Desktop/Flash/Tuolaji/Flash/tuolaji/PlayerPile.as</uri>
+    <uri label="CardPile.as">file:///C|/Users/HenryZ/Desktop/Flash/Tuolaji/Flash/as3cards/visual/CardPile.as</uri>
+    <uri label="Suit.as">file:///C|/Users/HenryZ/Desktop/Flash/Tuolaji/Flash/as3cards/core/Suit.as</uri>
+    <uri label="Card.as">file:///C|/Users/HenryZ/Desktop/Flash/Tuolaji/Flash/as3cards/core/Card.as</uri>
+    <uri label="Deck.as">file:///C|/Users/HenryZ/Desktop/Flash/Tuolaji/Flash/as3cards/core/Deck.as</uri>
+    <uri label="CardValue.as">file:///C|/Users/HenryZ/Desktop/Flash/Tuolaji/Flash/as3cards/core/CardValue.as</uri>
+    <uri label="InfoBox.as">file:///C|/Users/HenryZ/Desktop/Flash/Tuolaji/Flash/InfoBox.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>

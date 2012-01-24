@@ -1,0 +1,25 @@
+<projectDescription>
+  <id>1261588454850</id>
+  <name>Flash</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Users/Herny/AppData/Local/Adobe/Flash CS4/en/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Users/Herny/AppData/Local/Adobe/Flash CS4/en/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///D|/Tuolaji/trunk/Tuolaji/Flash/MyGame.fla</defaultApp>
+  <rootURI>file:///D|/Tuolaji/trunk/Tuolaji/Flash/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="MyGame.as">file:///D|/Tuolaji/trunk/Tuolaji/Flash/MyGame.as</uri>
+    <uri label="MyGame.fla">file:///D|/Tuolaji/trunk/Tuolaji/Flash/MyGame.fla</uri>
+    <uri label="CardValue.as">file:///D|/Tuolaji/trunk/Tuolaji/Flash/as3cards/core/CardValue.as</uri>
+    <uri label="VisualCard.as">file:///D|/Tuolaji/trunk/Tuolaji/Flash/as3cards/visual/VisualCard.as</uri>
+    <uri label="DefaultSkin.as">file:///D|/Tuolaji/trunk/Tuolaji/Flash/as3cards/visual/DefaultSkin.as</uri>
+    <uri label="Card.as">file:///D|/Tuolaji/trunk/Tuolaji/Flash/as3cards/core/Card.as</uri>
+    <uri label="InfoBox.as">file:///D|/Tuolaji/trunk/Tuolaji/Flash/InfoBox.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>

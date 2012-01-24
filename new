@@ -1,0 +1,32 @@
+I am working on a game where I want to send private messages through the chat system. 
+I am experimenting with overloading the HandleChatMessage() method,
+however I can not figure out how to display the text message to only 1 user. Any ideas?
+ 
+For the user who typed the message, 
+Player.send("chathandled", msg) 
+
+To send it to a user who is not the one who typed it, 
+have some code take the second string in the array
+ and place it into the variable "usertosend" 
+
+So if the command is /message Cyclone103 Hi! How are you? 
+it will parse Cyclone103 as usertosend. 
+Concatenate everything past the second part into a single string, msg. 
+
+Use this code on the serverside: 
+
+Broadcast("messagerecieved", usertosend, msg) 
+
+Have the clientside code check if the current user has the username stored in usertosend,
+ if they don't, it should not do anything to the message and it should not parse it. 
+
+If they do, use the addChildToChat method and add the text. 
+
+My new Question is what did you do for NonobaAPI.AddChildToChat(s:Sprite)? 
+http://nonoba.com/developers/documentation/multiplayerapi/classnonobaapi#AddChildToChat
+
+Yes you can do this, but make sure the flash player are allowd to connect to the network. 
+if you are useing "Flash" to compile the movie you can set this in the project settings 
+"Local playback securty" to "Access network only". 
+
+sync players :http://nonoba.com/developers/forum/multiplayerapi/what-method-do-you-use-to-sync-up-players

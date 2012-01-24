@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Serverside">
+</Property><Property Name="Solution File" Value="C:\Users\HenryZ\Desktop\Flash\Tuolaji\Serverside.sln">
+</Property><Property Name="Date" Value="Friday, November 27, 2009">
+</Property><Property Name="Time" Value="16:32 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Serverside.sln" Description="File successfully backed up as C:\Users\HenryZ\Desktop\Flash\Tuolaji\Backup\Serverside.sln">
+</Event><Event ErrorLevel="0" Project="Test Server" Source="Nonoba .NET Libraries\Test Server\Test Server.csproj" Description="Project file successfully backed up as C:\Users\HenryZ\Desktop\Flash\Tuolaji\Backup\Nonoba .NET Libraries\Test Server\Test Server.csproj">
+</Event><Event ErrorLevel="0" Project="Test Server" Source="Nonoba .NET Libraries\Test Server\Startup.cs" Description="File successfully backed up as C:\Users\HenryZ\Desktop\Flash\Tuolaji\Backup\Nonoba .NET Libraries\Test Server\Startup.cs">
+</Event><Event ErrorLevel="0" Project="Test Server" Source="Nonoba .NET Libraries\Test Server\Test Server.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Test Server" Source="Nonoba .NET Libraries\Test Server\Test Server.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Serverside Code" Source="Serverside Code\Serverside Code.csproj" Description="Project file successfully backed up as C:\Users\HenryZ\Desktop\Flash\Tuolaji\Backup\Serverside Code\Serverside Code.csproj">
+</Event><Event ErrorLevel="0" Project="Serverside Code" Source="Serverside Code\Game.cs" Description="File successfully backed up as C:\Users\HenryZ\Desktop\Flash\Tuolaji\Backup\Serverside Code\Game.cs">
+</Event><Event ErrorLevel="0" Project="Serverside Code" Source="Serverside Code\Player.cs" Description="File successfully backed up as C:\Users\HenryZ\Desktop\Flash\Tuolaji\Backup\Serverside Code\Player.cs">
+</Event><Event ErrorLevel="0" Project="Serverside Code" Source="Serverside Code\Serverside Code.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Serverside Code" Source="Serverside Code\Serverside Code.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Serverside.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Serverside.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Test Server" Source="Nonoba .NET Libraries\Test Server\Test Server.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Serverside Code" Source="Serverside Code\Serverside Code.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

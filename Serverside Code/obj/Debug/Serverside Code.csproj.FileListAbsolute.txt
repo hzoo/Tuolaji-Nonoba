@@ -1,0 +1,12 @@
+C:\Users\HenryZ\Desktop\Flash\Tuolaji\Serverside Code\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HenryZ\Desktop\Flash\Tuolaji\Serverside Code\bin\Debug\MyGame.dll
+C:\Users\HenryZ\Desktop\Flash\Tuolaji\Serverside Code\bin\Debug\MyGame.pdb
+C:\Users\HenryZ\Desktop\Flash\Tuolaji\Serverside Code\bin\Debug\Nonoba.GameLibrary.dll
+C:\Users\HenryZ\Desktop\Flash\Tuolaji\Serverside Code\obj\Debug\MyGame.dll
+C:\Users\HenryZ\Desktop\Flash\Tuolaji\Serverside Code\obj\Debug\MyGame.pdb
+D:\Tuolaji\trunk\Tuolaji\Serverside Code\bin\Debug\MyGame.dll
+D:\Tuolaji\trunk\Tuolaji\Serverside Code\bin\Debug\MyGame.pdb
+D:\Tuolaji\trunk\Tuolaji\Serverside Code\obj\Debug\ResolveAssemblyReference.cache
+D:\Tuolaji\trunk\Tuolaji\Serverside Code\obj\Debug\MyGame.dll
+D:\Tuolaji\trunk\Tuolaji\Serverside Code\obj\Debug\MyGame.pdb
+D:\Tuolaji\trunk\Tuolaji\Serverside Code\bin\Debug\Nonoba.GameLibrary.dll
