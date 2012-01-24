@@ -1,7 +1,13 @@
-Code for the game at http://nonoba.com/eltacodeldiablo/zhu-tuolaji. If you want to see it work, you should open the game in 4 windows or get some friends. The rules can be found at http://en.wikipedia.org/wiki/Bashi_Fen and http://www.pagat.com/kt5/tractor.html.
-After my friends and everyone at our school started playing this game everyday, I thought why not try making it? Then I thought multiplayer would be cooler than singleplayer since someone already made one on kongregate (http://www.kongregate.com/games/Auway/tractor). Stopped working on this like 2 years ago? I tried redoing it on Player.IO (nonoba v2 basically) but I am not sure it worked.
-I didn't finish all the rules (checking for illegal card moves). Otherwise if everyone plays by honor system and no one disconnects it should work fine.
-Hopefully I'll be able to port this over to something that doesn't depend on someone else's server code in the futuer. Maybe just use html5. I really did spend a significant amount of time trying to get this to work and involved a lot of frustrated people to test it hah.
+Code for the game at http://nonoba.com/eltacodeldiablo/zhu-tuolaji.
+If you want to see it work, you should open the game in 4 windows or get some friends.
+The rules can be found at http://en.wikipedia.org/wiki/Bashi_Fen and http://www.pagat.com/kt5/tractor.html.
+After my friends and everyone at our school started playing this game everyday,I thought why not try making it?
+Then I thought multiplayer would be cooler than singleplayer since someone already made one on kongregate (http://www.kongregate.com/games/Auway/tractor).
+Stopped working on this like 2 years ago? I tried redoing it on Player.IO (nonoba v2 basically) but I am not sure it worked.
+I didn't finish all the rules (checking for illegal card moves).
+Otherwise if everyone plays by honor system and no one disconnects it should work fine.
+Hopefully I'll be able to port this over to something that doesn't depend on someone else's server code in the futuer. Maybe just use html5.
+I really did spend a significant amount of time trying to get this to work and involved a lot of frustrated people to test it hah.
 
 Random documentation I found
 
