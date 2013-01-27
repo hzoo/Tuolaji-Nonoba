@@ -1,7 +1,12 @@
 [Zhu-Tuolaji](http://nonoba.com/eltacodeldiablo/zhu-tuolaji.)
+---
 
-UPDATE: nonoba.com seems to be down or not working anymore.
-I guess its a lesson in finishing a game, as well as using someone else's server and server code.
+**UPDATE 2013**: *nonoba.com* seems to be down or not working anymore.
+
+I guess its a lesson in not finishing a game, as well as using someone else's server and server code. Maybe I'l redo do this in just HTML5 or for mobile.
+
+Instructions
+---
 If you want to see it work, you should open the game in 4 windows or get some friends to join you.
 
 Rules
@@ -9,122 +14,110 @@ Rules
 - http://en.wikipedia.org/wiki/Bashi_Fen
 - http://www.pagat.com/kt5/tractor.html.
 
-
-After my friends and everyone at our school started playing this game everyday,I thought why not try making it?
-Then I thought multiplayer would be cooler than singleplayer since someone already made one on kongregate (http://www.kongregate.com/games/Auway/tractor).
-Stopped working on this like 2 years ago? I tried redoing it on Player.IO (nonoba v2 basically) but I am not sure it worked.
-I didn't finish all the rules (checking for illegal card moves).
-Otherwise if everyone plays by honor system and no one disconnects it should work fine.
-Hopefully I'll be able to port this over to something that doesn't depend on someone else's server code in the futuer. Maybe just use html5.
-I really did spend a significant amount of time trying to get this to work and involved a lot of frustrated people to test it hah.
-
-Random documentation I found
+Story..
 ---
-Tuolaji v2
-Programs: Flash CS5
-SharpDevelop (or visual studio express 2008)
-TortoiseSVN
-nonoba/player.io (server)
+- After my friends and everyone at our school started playing this game everyday, I thought why not try making it?
+- Then I thought multiplayer would be cooler than singleplayer since someone already made one on kongregate (http://www.kongregate.com/games/Auway/tractor).
+- Stopped working on this like 2 years ago? I tried redoing it on Player.IO...
+- I didn't finish all the rules (checking for illegal card moves).
+- Otherwise if everyone plays by honor system and no one disconnects it should work fine.
+- Hopefully I'll be able to port this over to something that doesn't depend on someone else's server code in the future. 
+- I really did spend a significant amount of time trying to get this to work and involved a lot of frustrated people to test it.
 
-    downloaded player.io devpack v1.8.1
-        http://playerio.com/download/
-    getting flash cs5 trial
-    sharpdevelop 3
-    tortoisesvn setup
-    player.io facebook connect setup
-        http://playerio.com/forum/post1501#p1501
-    registred visual studio express 2008
-    download visual studio express 2010 to use when needed
-
-Zhu Tuolaji
-
-Classes (C# servercode)
-    Player - each person should have and do what?
-    Card -
-    CardValue
-    Suit
-    ShuaiPart
-    Tuolaji
-    GameCode
-Player
-    attributes
-        value (int)
-        suit (int)
-        tuolaji reference (Tuolaji) - should be changed...
-    methods
-        getCompareValue()
-        equals
-        sameSuit
-        compareTo
-CardValue
-    attributes
-        TWO = 2;
-        THREE = 3;
-        FOUR = 4;
-        FIVE = 5;
-        SIX = 6;
-        SEVEN = 7;
-        EIGHT = 8;
-        NINE = 9;
-        TEN = 10;
-        JACK = 11;
-        QUEEN = 12;
-        KING = 13;
-        ACE = 14;
-        CURRENTLEVEL = 15;
-        CURRENTLEVELSUIT = 16;
-        JOKERBLACK = 17;
-        JOKERRED = 18;
-Suit
-    attributes
-        DIAMONDS = 0;
-        CLUBS = 1;
-        HEARTS = 2;
-        SPADES = 3;
-        JOKER = 4;
-ShuaiPart
-    attributes
-        startCard (starting value of the shuaipart)
-        numSame
-        numConsecutive
-        ex: AAAKKK = A,3,2
-    methods
-        compareTo
 
 Features/Suggestions
 ---
-Since the game is about done and ready to test/add other things... here is a new note to post things I could add in the game in the future. I will just 'cross out' things that are finished as time goes on...
 
-Finishing the Game:
-    Implement forced matching (have to play a pair or w.e if you have one)
-    multiply bottom correctly
-    display captured points (everyone's points if ffa)
-    option to show last hand (useful to find glitches maybe)
+Finishing the Game
+
+- Implement forced matching (have to play a pair or w.e if you have one)
+- multiply bottom correctly
+- display captured points (everyone's points if ffa)
+- option to show last hand (useful to find glitches maybe)
 
 Features to add?
-    even # of Players (2,4,6)
-    x # of Decks
-    show points already taken
-    x # of Players - odd # = Finding Friends (FFA mode basically)
-    Fix Card Overflow/Centering deck on screen for multiple decks
-    Redo Interface
-    Any Timers
-    Autoplay (30 sec?)
-    State what the person played (played pair of 4s)
-    Keyboard Shortcuts (wasd/arrows/enter)
-    Options Panel for game creator
-    Meta-game/Leveling System
-    Spectators (who cares? lol)
-    Sounds...
-    Music?
-    Bots.
-    if off focus - play sound if ure turn/chat
-    each round show in-game ad with option to leave
-    chat filter (is this really needed)
-    tutorial
-    If someone leaves (bot,option to invite/join)
-        if someone disconnects- wait 30 to see if they come back?
-        or vote to either ask someone else to play/wait
+
+- even # of Players (2,4,6)
+- x # of Decks
+- show points already taken
+- x # of Players - odd # = Finding Friends (FFA mode basically)
+- Fix Card Overflow/Centering deck on screen for multiple decks
+- Redo Interface
+- Any Timers
+- Autoplay (30 sec?)
+- State what the person played (played pair of 4s)
+- Keyboard Shortcuts (wasd/arrows/enter)
+- Options Panel for game creator
+- Meta-game/Leveling System
+- Spectators (who cares? lol)
+- Sounds...
+- Music?
+- Bots.
+- if off focus - play sound if ure turn/chat
+- each round show in-game ad with option to leave
+- chat filter (is this really needed)
+- tutorial
+- If someone leaves (bot,option to invite/join)
+- if someone disconnects- wait 30 to see if they come back?
+- or vote to either ask someone else to play/wait
+
+
+Random documentation I found
+---
+- Flash CS5
+- SharpDevelop (or Visual Studio Express 2010)
+- TortoiseSVN
+- Nonoba/Player.IO (server)
+
+Classes
+
+- Player
+    - attributes
+        - value (int)
+        - suit (int)
+        - tuolaji reference (Tuolaji) - should be changed...
+    - methods
+        - getCompareValue()
+        - equals
+        - sameSuit
+        - compareTo
+- Card
+- CardValue
+    - Attributes
+        - TWO = 2;
+        - THREE = 3;
+        - FOUR = 4;
+        - FIVE = 5;
+        - SIX = 6;
+        - SEVEN = 7;
+        - EIGHT = 8;
+        - NINE = 9;
+        - TEN = 10;
+        - JACK = 11;
+        - QUEEN = 12;
+        - KING = 13;
+        - ACE = 14;
+        - CURRENTLEVEL = 15;
+        - CURRENTLEVELSUIT = 16;
+        - JOKERBLACK = 17;
+        - JOKERRED = 18;
+- Suit
+    - Attributes
+        - DIAMONDS = 0;
+        - CLUBS = 1;
+        - HEARTS = 2;
+        - SPADES = 3;
+        - JOKER = 4;
+- ShuaiPart
+    - Attributes
+        - startCard (starting value of the shuaipart)
+            - numSame
+            - numConsecutive
+            - ex: AAAKKK = A,3,2
+        - methods
+            - compareTo
+- Tuolaji
+- GameCode
 
 Progress
 ----
