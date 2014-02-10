@@ -3,6 +3,8 @@
 
 **UPDATE 2013**: *nonoba.com* seems to be down or not working anymore.
 
+![](http://i.imgur.com/LT2L81a.png)
+
 I guess its a lesson in not finishing a game, as well as using someone else's server and server code. Maybe I'l redo do this in just HTML5 or for mobile.
 
 Instructions
