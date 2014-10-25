@@ -1,4 +1,4 @@
-[Zhu-Tuolaji](http://nonoba.com/eltacodeldiablo/zhu-tuolaji.)
+[Zhu-Tuolaji](http://nonoba.com/hzoo/Tuolaji-Nonoba.)
 ---
 
 **UPDATE 2013**: *nonoba.com* seems to be down or not working anymore.
