@@ -1,5 +1,6 @@
 [Zhu-Tuolaji](http://nonoba.com/hzoo/Tuolaji-Nonoba.)
 ---
+** Check out [hzoo/shengji](http://github.com/hzoo/shengji) **
 
 **UPDATE 2013**: *nonoba.com* seems to be down or not working anymore.
 
