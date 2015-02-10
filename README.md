@@ -1,8 +1,10 @@
-[Zhu-Tuolaji](http://nonoba.com/hzoo/Tuolaji-Nonoba.)
+Zhu-Tuolaji
 ---
-** Check out [hzoo/shengji](http://github.com/hzoo/shengji) **
+This isn't being updated anymore!
+## Check out [hzoo/shengji](http://github.com/hzoo/shengji) instead
 
 **UPDATE 2013**: *nonoba.com* seems to be down or not working anymore.
+- http://nonoba.com/eltacodeldiablo/Tuolaji-Nonoba
 
 ![](http://i.imgur.com/LT2L81a.png)
 
